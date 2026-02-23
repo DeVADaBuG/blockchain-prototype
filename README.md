@@ -1,3 +1,1 @@
-# python-project-6
-
-Automated repository creation.
+# blockchain-prototype\n\nA basic, conceptual blockchain simulation highlighting core concepts like cryptographic hashing and proof-of-work algorithms.\n
